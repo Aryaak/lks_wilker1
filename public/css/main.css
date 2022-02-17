@@ -1,0 +1,18 @@
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit !important;
+}
+
+.bg-primary-01o {
+    background-color: rgba(13,110,253,.1);
+}
+
+.line-primary {
+    background-color: rgb(13,110,253);
+    height: 5px;
+    border-radius: 100px;
+}
